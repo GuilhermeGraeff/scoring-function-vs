@@ -1,9 +1,7 @@
 # Dataset
 
 https://dude.docking.org/
-            |
-            |
-            v
+
 "Welcome to DUD•E, an enhanced and rebuilt version of DUD, 
 a directory of useful decoys. DUD-E is designed to help 
 benchmark molecular docking programs by providing challenging 
