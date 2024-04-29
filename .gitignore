@@ -1,4 +1,4 @@
-dataset/*.ism
-dataset/*.gz
-dataset/*.mol2
-dataset/*.pdb
+dataset/*/*.ism
+dataset/*/*.gz
+dataset/*/*.mol2
+dataset/*/*.pdb
